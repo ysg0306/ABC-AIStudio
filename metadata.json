@@ -1,0 +1,6 @@
+{
+  "name": "도서 종합 대시보드 및 RAG 추천 챗봇",
+  "description": "다양한 도서 데이터 트렌드를 분석하는 종합 대시보드와 실시간 도서 정보를 기반으로 맞춤 도서를 권해주는 지능형 RAG 챗봇",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
